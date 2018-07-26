@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: 2d3a21b2efd1d4b9f8c1a8736d807184
+timeCreated: 1475616971
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: braid_0
+    21300002: braid_1
+    21300004: braid_2
+    21300006: braid_3
+    21300008: braid_4
+    21300010: braid_5
+    21300012: braid_6
+    21300014: braid_7
+    21300016: braid_8
+    21300018: braid_9
+    21300020: braid_10
+    21300022: braid_11
+    21300024: braid_12
+    21300026: braid_13
+    21300028: braid_14
+    21300030: braid_15
+    21300032: braid_16
+    21300034: braid_17
+    21300036: braid_18
+    21300038: braid_19
+    21300040: braid_20
+    21300042: braid_21
+    21300044: braid_22
+    21300046: braid_23
+    21300048: braid_24
+    21300050: braid_25
+    21300052: braid_26
+    21300054: braid_27
+    21300056: braid_28
+    21300058: braid_29
+    21300060: braid_30
+    21300062: braid_31
+    21300064: braid_32
+    21300066: braid_33
+    21300068: braid_34
+    21300070: braid_35
+    21300072: braid_36
+    21300074: braid_37
+    21300076: braid_38
+    21300078: braid_39
+    21300080: braid_40
+    21300082: braid_41
+    21300084: braid_42
+    21300086: braid_43
+    21300088: braid_44
+    21300090: braid_45
+    21300092: braid_46
+    21300094: braid_47
+    21300096: braid_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: braid_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 282
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_13
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_14
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_15
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_16
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 281
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_17
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 280
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_18
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 280
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 139
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 95
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 143
+        width: 94
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 143
+        width: 95
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 96
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 146
+        width: 98
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_27
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 149
+        width: 102
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 145
+        width: 99
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_29
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 143
+        width: 98
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_30
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 148
+        width: 103
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_31
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 144
+        width: 100
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_32
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 146
+        width: 102
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_33
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 147
+        width: 104
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_34
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 144
+        width: 102
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 103
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 108
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2
+        width: 104
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 9
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_39
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 106
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_40
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2
+        width: 106
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 11
+        width: 116
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_42
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2
+        width: 109
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_43
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 4
+        width: 112
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_44
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 5
+        width: 113
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_45
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 10
+        width: 118
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 7
+        width: 118
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_47
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 8
+        width: 119
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: braid_48
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 5
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
