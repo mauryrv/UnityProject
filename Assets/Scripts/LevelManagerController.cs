@@ -8,14 +8,17 @@ public class LevelManagerController : MonoBehaviour {
 	public AudioSource gameOverAudio;
 
     /// <summary>
-    /// Carrega a fase.
+    /// Carrega fase
     /// </summary>
     /// <param name="scene">Scene.</param>
 	public void LoadScene(int scene){
 
 		playGameAudio.Play();
 		SceneManager.LoadScene(scene);
-	}
+        if (UnityAdControle.showAds) {
+            UnityAdControle.ShowAd();
+        }
+    }
 
     /// <summary>
     /// Sai do jogo

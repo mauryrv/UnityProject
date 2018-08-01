@@ -662,9 +662,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 0bed7f58-5524-44b5-af9e-0d2fd0e9816d
+  cloudProjectId: 452e1f7c-8447-44c4-8af9-dbc1e7b0169c
   projectName: ProjectDM117
-  organizationId: mauryrv
+  organizationId: carlosdanieldrury_unity
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
