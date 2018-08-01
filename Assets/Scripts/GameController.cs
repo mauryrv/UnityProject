@@ -11,18 +11,23 @@ public class GameController : MonoBehaviour {
 	public AudioSource inGameAudio;
 	public Text timerText;
 	private float time = 10;
+    private bool isPaused = false;
 
 
 	// Use this for initialization
 	void Start () {
-		inGameAudio.Play ();
+        UnityAdControle.ShowAd();
+        inGameAudio.Play ();
 
-		scoreText.text = "Score: 0";
+        scoreText.text = "Score: 0";
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		time -= Time.deltaTime;
+
+        if (!isPaused) {
+            time -= Time.deltaTime;
+        }
 
 		timerText.text = "Time left: " + (int)time + " s";
 
@@ -30,10 +35,10 @@ public class GameController : MonoBehaviour {
 
 			if (currentScore >= 400) {
 				// carrega a cena de que venceu
-				SceneManager.LoadScene (3);
-			} else {
-				// carrega a cena que perdeu
 				SceneManager.LoadScene (2);
+			} else {
+                // carrega a cena que perdeu
+                SceneManager.LoadScene (3);
 			}
 		}
 

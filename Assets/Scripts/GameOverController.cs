@@ -13,6 +13,7 @@ public class GameOverController : MonoBehaviour {
     /// </summary>
 	public void PlayAgain(){
 		playAgainAudio.Play ();
+        UnityAdControle.ShowAdReward();
 		SceneManager.LoadScene (1);
 	}
 

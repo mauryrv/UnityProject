@@ -11,7 +11,6 @@ public class AppleController : MonoBehaviour {
 	public AudioSource appleHittedAudio;
 	public AudioSource playerGotAppleAudio;
 
-
 	// Use this for initialization
 	void Start () {
 		rigidBody = GetComponent <Rigidbody2D> ();
@@ -37,28 +36,29 @@ public class AppleController : MonoBehaviour {
 
 	void OnCollisionEnter2D (Collision2D collision) {
 
-		if (collision.collider.tag == "Asteroid" 
-			|| collision.collider.tag == "Apple") {
+        if (collision.collider.tag == "Asteroid"
+            || collision.collider.tag == "Apple") {
 
-			appleHittedAudio.Play ();
+            appleHittedAudio.Play();
 
-			rigidBody.isKinematic = false;
-			rigidBody.AddRelativeForce(-0.2f * collision.relativeVelocity);
-		}
+            rigidBody.isKinematic = false;
+            rigidBody.AddRelativeForce(-0.2f * collision.relativeVelocity);
+        }
 
-		if (collision.collider.tag == "Player") {
+        if (collision.collider.tag == "Player") {
 
-			playerGotAppleAudio.Play ();
-			UpdateScore (100);
-			Destroy (gameObject);
+            playerGotAppleAudio.Play();
+            UpdateScore(100);
+            Destroy(gameObject);
 
-		} else if (collision.collider.tag == "Ground") {
+        }
+        else if (collision.collider.tag == "Ground") {
 
-			appleHittedAudio.Play ();
-			Destroy (gameObject);
+            appleHittedAudio.Play();
+            Destroy(gameObject);
 
-		}
-	}
+        }
+    }
 
 	void UpdateScore(int newScore){
 		gameControl.UpdateScore (newScore);
