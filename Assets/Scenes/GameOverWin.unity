@@ -366,7 +366,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -155, y: 134.4}
+  m_AnchoredPosition: {x: -205, y: 134.4}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &479418554
@@ -401,7 +401,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Game Over!!!
+  m_Text: Congratulations!!!
 --- !u!222 &479418555
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -514,7 +514,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -155, y: 15.2}
+  m_AnchoredPosition: {x: -185, y: 15.2}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &626954501
@@ -549,7 +549,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: You WIN ! Congratulations!!!
+  m_Text: You WON. You achieved the goal!!
 --- !u!222 &626954502
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -623,7 +623,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Play Again!
+  m_Text: Play Again
 --- !u!222 &829765079
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -904,7 +904,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playAgainAudio: {fileID: 977777172}
-  quitGameAudio: {fileID: 444987462}
 --- !u!4 &1003825631
 Transform:
   m_ObjectHideFlags: 0
@@ -970,7 +969,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.33813596, g: 0.6784314, b: 0.21960784, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
