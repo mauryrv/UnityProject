@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlaySound
+  - Ground
+  - Asteroid
+  - Apple
+  - Coin
   layers:
   - Default
   - TransparentFX
