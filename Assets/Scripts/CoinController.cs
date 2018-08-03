@@ -2,14 +2,14 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class AppleController : MonoBehaviour {
+public class CoinController : MonoBehaviour {
 
 
 	private Rigidbody2D rigidBody;
 
 	public GameController gameControl;
-	public AudioSource appleHittedAudio;
-	public AudioSource playerGotAppleAudio;
+	public AudioSource coinHittedAudio;
+	public AudioSource playerGotCoinAudio;
 
 	// Use this for initialization
 	void Start () {
@@ -37,9 +37,9 @@ public class AppleController : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D collision) {
 
         if (collision.collider.tag == "Asteroid"
-            || collision.collider.tag == "Apple") {
+            || collision.collider.tag == "Coin") {
 
-            appleHittedAudio.Play();
+            coinHittedAudio.Play();
 
             rigidBody.isKinematic = false;
             rigidBody.AddRelativeForce(-0.2f * collision.relativeVelocity);
@@ -47,14 +47,14 @@ public class AppleController : MonoBehaviour {
 
         if (collision.collider.tag == "Player") {
 
-            playerGotAppleAudio.Play();
+            playerGotCoinAudio.Play();
             UpdateScore(100);
             Destroy(gameObject);
 
         }
         else if (collision.collider.tag == "Ground") {
 
-            appleHittedAudio.Play();
+            coinHittedAudio.Play();
             Destroy(gameObject);
 
         }
