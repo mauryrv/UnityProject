@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 114000011021054190}
   m_Layer: 0
   m_Name: apple
-  m_TagString: Apple
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -90,8 +90,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameControl: {fileID: 0}
-  appleHittedAudio: {fileID: 0}
-  playerGotAppleAudio: {fileID: 0}
+  coinHittedAudio: {fileID: 0}
+  playerGotCoinAudio: {fileID: 0}
 --- !u!212 &212000010142431808
 SpriteRenderer:
   m_ObjectHideFlags: 1
