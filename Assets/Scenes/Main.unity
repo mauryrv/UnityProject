@@ -176,6 +176,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -412,6 +422,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -793,7 +813,7 @@ GameObject:
   - component: {fileID: 322862111}
   - component: {fileID: 322862112}
   m_Layer: 0
-  m_Name: AppleBeenHittedAudio
+  m_Name: CoinBeenHittedAudio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1244,6 +1264,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -1310,6 +1340,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -1428,26 +1468,21 @@ Prefab:
       propertyPath: m_Name
       value: coin (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
-        type: 2}
-      propertyPath: scoreReference
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
-        type: 2}
-      propertyPath: appleHittedAudio
-      value: 
-      objectReference: {fileID: 322862112}
-    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
-        type: 2}
-      propertyPath: playerGotAppleAudio
-      value: 
-      objectReference: {fileID: 1218945807}
     - target: {fileID: 212000010142431808, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
         type: 2}
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -2048,6 +2083,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -2599,6 +2644,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -2631,7 +2686,7 @@ Animator:
   m_GameObject: {fileID: 1151716447}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fcfae5f7229f7460b99fa3bcdf35f6eb, type: 2}
+  m_Controller: {fileID: 9100000, guid: b4cfecd613d804783a3c43458af30f3f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2675,7 +2730,7 @@ SpriteRenderer:
   m_SortingLayerID: -1773091377
   m_SortingLayer: 0
   m_SortingOrder: 15
-  m_Sprite: {fileID: 21300000, guid: 2d3a21b2efd1d4b9f8c1a8736d807184, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e006001488d004dad98af64da273c59d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2711,15 +2766,15 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 4
+  m_Mass: 4.4388
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 6
 --- !u!61 &1151716452
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2735,8 +2790,8 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 1.37}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.62, y: 2.74}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.56, y: 1.57}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2769,7 +2824,7 @@ GameObject:
   - component: {fileID: 1218945806}
   - component: {fileID: 1218945807}
   m_Layer: 0
-  m_Name: IsaacGotAppleAudio
+  m_Name: IsaacGotCoinAudio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3421,7 +3476,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 0
-  m_AspectRatio: 1.8290598
+  m_AspectRatio: 1.9783654
 --- !u!114 &1548444766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8658,6 +8713,16 @@ Prefab:
       propertyPath: m_SortingOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
@@ -8836,7 +8901,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 0
-  m_AspectRatio: 1.8660715
+  m_AspectRatio: 2.0277777
 --- !u!114 &1855578888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9009,6 +9074,16 @@ Prefab:
       propertyPath: m_Name
       value: coin
       objectReference: {fileID: 0}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: coinHittedAudio
+      value: 
+      objectReference: {fileID: 322862112}
+    - target: {fileID: 114000011021054190, guid: 46219462c7ea14b30aaaf2d3e99ef06e,
+        type: 2}
+      propertyPath: playerGotCoinAudio
+      value: 
+      objectReference: {fileID: 1218945807}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 46219462c7ea14b30aaaf2d3e99ef06e, type: 2}
   m_IsPrefabAsset: 0
