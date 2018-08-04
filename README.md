@@ -16,13 +16,13 @@ Menu principal com as opções Jogar e Sair.
 ### Cena do Jogo
 
 O jogador tem 10 segundos para completar o jogo, se dentro desse tempo não atingir 400 pontos o mesmo perde.
-Para fazer os pontos o jogador deve arremessar o passaro na arvore para tentar derrubar o máximo de moedas possivel, cada uma tem o valor de 100 pontos. Caso o passaro saia para fora do cenário o jogador perde o jogo.
+Para fazer os pontos o jogador deve arremessar a bola na arvore para tentar derrubar o máximo de moedas possivel, cada uma tem o valor de 100 pontos. Caso o passaro saia para fora do cenário o jogador perde o jogo.
 Durante o jogo o jogador pode pausar o mesmo e reiniciar de onde parou, voltar a tela inicial ou reiniciar o jogo.
 
 #### Como Jogar
 
-* Mouse: arraste o passaro no estilingue segurando o botão direito e solte disparando a mesma na arvore para derribar as moedas.
-* Teclado: as setas direita e esquerda fazem o personagem se locomover de uma lado para o outro para que o mesmo possa coletar as moedas.
+* Mouse: arraste a bola no estilingue segurando o botão direito e solte disparando a mesma na arvore para derribar as moedas.
+* Teclado: as setas direita e esquerda fazem o pássaro se locomover de uma lado para o outro para que o mesmo possa coletar as moedas.
 
 ## Cena de Game Over
 
